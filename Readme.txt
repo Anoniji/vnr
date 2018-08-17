@@ -1,3 +1,6 @@
+Les données de programme et le code source de VNR se trouvent dans ce répertoire.
+Vous ne voulez pas modifier ce répertoire, sauf si vous êtes familier avec la programmation.
+
 VNR's program data and source code are in this directory.
 You don't want to modify this directory, unless you are familiar with programming.
 
